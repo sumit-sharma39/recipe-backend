@@ -1,0 +1,229 @@
+[
+    {
+        "_id": "R1",
+        "title": "Creamy Carbonara",
+        "description": "A classic Roman pasta dish with eggs, cheese and crispy pancetta. Ready in under 30 minutes.",
+        "category": "Pasta",
+        "time": 25,
+        "servings": 2,
+        "difficulty": "Easy",
+        "image": "",
+        "rating": 4.8,
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 large eggs",
+            "50g parmesan cheese",
+            "Black pepper",
+            "Salt"
+        ],
+        "steps": [
+            "Boil a large pot of salted water and cook spaghetti until al dente.",
+            "Fry pancetta in a pan until crispy then remove from heat.",
+            "Whisk eggs and grated parmesan together in a bowl.",
+            "Drain pasta and add to the pancetta pan off the heat.",
+            "Pour egg mixture over pasta and toss quickly until creamy.",
+            "Season with black pepper and serve immediately."
+        ]
+    },
+    {
+        "_id": "R2",
+        "title": "Avocado Toast",
+        "description": "Quick and healthy breakfast with creamy avocado on toasted sourdough. Perfect for busy mornings.",
+        "category": "Breakfast",
+        "time": 10,
+        "servings": 1,
+        "difficulty": "Easy",
+        "image": "",
+        "rating": 4.5,
+        "ingredients": [
+            "2 slices sourdough bread",
+            "1 ripe avocado",
+            "1 tbsp lemon juice",
+            "Chili flakes",
+            "Salt",
+            "Black pepper"
+        ],
+        "steps": [
+            "Toast the sourdough slices until golden and crispy.",
+            "Cut the avocado in half, remove the pit and scoop into a bowl.",
+            "Mash avocado with lemon juice, salt and pepper.",
+            "Spread generously onto the toast.",
+            "Top with chili flakes and serve immediately."
+        ]
+    },
+    {
+        "_id": "R3",
+        "title": "Chicken Tikka Masala",
+        "description": "Rich and creamy Indian curry with tender chicken in a spiced tomato and coconut sauce.",
+        "category": "Curry",
+        "time": 45,
+        "servings": 4,
+        "difficulty": "Medium",
+        "image": "",
+        "rating": 4.9,
+        "ingredients": [
+            "500g chicken breast",
+            "200ml coconut cream",
+            "400g canned tomatoes",
+            "2 tsp garam masala",
+            "1 tsp turmeric",
+            "1 large onion",
+            "3 garlic cloves",
+            "1 tsp fresh ginger",
+            "Salt to taste"
+        ],
+        "steps": [
+            "Cut chicken into chunks and marinate with garam masala and turmeric for 30 minutes.",
+            "Fry diced onion, garlic and ginger in oil until soft and golden.",
+            "Add canned tomatoes and simmer for 10 minutes.",
+            "Add marinated chicken and cook through for 15 minutes.",
+            "Stir in coconut cream and simmer for 5 more minutes.",
+            "Serve hot with rice or naan bread."
+        ]
+    },
+    {
+        "_id": "R4",
+        "title": "Caesar Salad",
+        "description": "Crisp romaine lettuce with classic Caesar dressing, parmesan shavings and golden croutons.",
+        "category": "Salad",
+        "time": 15,
+        "servings": 2,
+        "difficulty": "Easy",
+        "image": "",
+        "rating": 4.3,
+        "ingredients": [
+            "1 large romaine lettuce",
+            "50g parmesan cheese",
+            "Croutons",
+            "3 tbsp Caesar dressing",
+            "1 tbsp lemon juice",
+            "Black pepper"
+        ],
+        "steps": [
+            "Wash and dry the romaine lettuce then chop into bite-sized pieces.",
+            "Add lettuce to a large bowl and drizzle with Caesar dressing.",
+            "Squeeze in lemon juice and toss well to coat.",
+            "Top with parmesan shavings and croutons.",
+            "Season with black pepper and serve immediately."
+        ]
+    },
+    {
+        "_id": "R5",
+        "title": "Chocolate Lava Cake",
+        "description": "Warm chocolate cake with an irresistible gooey melted center. The ultimate indulgent dessert.",
+        "category": "Dessert",
+        "time": 20,
+        "servings": 4,
+        "difficulty": "Hard",
+        "image": "",
+        "rating": 4.7,
+        "ingredients": [
+            "200g dark chocolate",
+            "100g unsalted butter",
+            "4 large eggs",
+            "100g caster sugar",
+            "60g plain flour",
+            "Pinch of salt",
+            "Butter for greasing ramekins"
+        ],
+        "steps": [
+            "Preheat oven to 200°C and butter 4 ramekins generously.",
+            "Melt dark chocolate and butter together in a bowl over hot water.",
+            "Whisk eggs and sugar together until pale and fluffy.",
+            "Fold the melted chocolate into the egg mixture.",
+            "Fold in flour and salt until just combined.",
+            "Pour into ramekins and bake for exactly 12 minutes.",
+            "Turn out onto plates immediately and serve warm."
+        ]
+    },
+    {
+        "_id": "R6",
+        "title": "Tom Yum Soup",
+        "description": "Spicy and sour Thai soup with juicy prawns, lemongrass and mushrooms in a fragrant broth.",
+        "category": "Soup",
+        "time": 30,
+        "servings": 3,
+        "difficulty": "Medium",
+        "image": "",
+        "rating": 4.6,
+        "ingredients": [
+            "300g prawns peeled",
+            "2 stalks lemongrass",
+            "3 kaffir lime leaves",
+            "200g mushrooms",
+            "2 tbsp fish sauce",
+            "2 tbsp lime juice",
+            "1 tsp chili paste",
+            "500ml chicken stock"
+        ],
+        "steps": [
+            "Bring chicken stock to a boil with lemongrass stalks and lime leaves.",
+            "Add mushrooms and simmer for 5 minutes.",
+            "Add prawns and cook until they turn pink.",
+            "Season with fish sauce, lime juice and chili paste.",
+            "Taste and adjust seasoning as needed.",
+            "Serve hot garnished with fresh coriander."
+        ]
+    },
+    {
+        "_id": "R7",
+        "title": "Shakshuka",
+        "description": "Eggs poached in a rich spiced tomato and pepper sauce. A hearty Middle Eastern breakfast.",
+        "category": "Breakfast",
+        "time": 25,
+        "servings": 2,
+        "difficulty": "Easy",
+        "image": "",
+        "rating": 4.7,
+        "ingredients": [
+            "4 large eggs",
+            "400g canned tomatoes",
+            "1 red pepper",
+            "1 onion",
+            "2 garlic cloves",
+            "1 tsp cumin",
+            "1 tsp paprika",
+            "Fresh parsley",
+            "Salt and pepper"
+        ],
+        "steps": [
+            "Fry diced onion and pepper in oil until softened.",
+            "Add garlic, cumin and paprika and cook for 1 minute.",
+            "Pour in canned tomatoes and simmer for 10 minutes.",
+            "Make 4 wells in the sauce and crack an egg into each.",
+            "Cover and cook until egg whites are set but yolks are still runny.",
+            "Garnish with fresh parsley and serve with crusty bread."
+        ]
+    },
+    {
+        "_id": "R8",
+        "title": "Chicken Ramen",
+        "description": "Deep and rich Japanese noodle soup with tender chicken slices, soft boiled egg and fresh toppings.",
+        "category": "Soup",
+        "time": 60,
+        "servings": 2,
+        "difficulty": "Hard",
+        "image": "",
+        "rating": 4.9,
+        "ingredients": [
+            "200g ramen noodles",
+            "300g Chicken sirloin",
+            "2 soft boiled eggs",
+            "1L chicken stock",
+            "3 tbsp soy sauce",
+            "1 tbsp miso paste",
+            "Spring onions",
+            "Nori sheets",
+            "Sesame oil"
+        ],
+        "steps": [
+            "Bring Chicken stock to a simmer and whisk in miso paste and soy sauce.",
+            "Sear Chicken sirloin in a hot pan for 2 minutes each side then slice thinly.",
+            "Cook ramen noodles according to packet instructions.",
+            "Divide noodles into bowls and pour hot broth over.",
+            "Top with beef slices, halved soft boiled eggs and nori.",
+            "Garnish with spring onions and a drizzle of sesame oil."
+        ]
+    }
+] 
