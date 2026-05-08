@@ -7,6 +7,7 @@ const UserSchema = new mongoose.Schema({
     password:              { type: String, required: true },
     failed_login_attempts: { type: Number, default: 0 },
     account_locked_until:  { type: Date, default: null },
+    favourites: [{ type: String, ref: 'Recipe' }]
 }, { timestamps: true });
 
 module.exports = mongoose.model("User", UserSchema);
